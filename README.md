@@ -1,4 +1,4 @@
-# # :penguin: allsafe
+# # :penguin: All Safe
 
 <div align="center">
    <a href="[https://github.com/Cleciao](https://github.com/allsafe-inf)">
