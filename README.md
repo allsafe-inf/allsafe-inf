@@ -5,7 +5,7 @@
 
      
    </br>
-   Tecnologias do dia a dia</br></br>
+   Tecnologias do dia a dia Servidores</br></br>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> - 
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> - <img alt="Debian"           src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />-
    <img alt="Zabbix" src="https://img.shields.io/badge/ZABBIX-%2311AB00.svg?style=for-the-badge&logo=zabbix&logoColor=white"/>
@@ -17,8 +17,9 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> - 
    <img alt="Proxmox" src="https://img.shields.io/badge/proxmox-%230db7ed.svg?style=for-the-badge&logo=proxmox&logoColor=orange"/> - 
    <img alt="Vmware" src="https://img.shields.io/badge/vmware-%230db7ed.svg?style=for-the-badge&logo=vmware&logoColor=green"/> - 
-   <img alt="VeeamBackup" src="https://img.shields.io/badge/VEEAM_BACKUP-%2311AB00.svg?style=for-the-badge&logo=veeam&logoColor=white"/>
+   <img alt="VeeamBackup" src="https://img.shields.io/badge/VEEAM_BACKUP-%2311AB00.svg?style=for-the-badge&logo=veeam&logoColor=white"/></br></br>
 
+Tecnologias do dia a dia Roteamento
 
    <img alt="BGP" src="https://img.shields.io/badge/BGP-%23007ACC.svg?style=for-the-badge&logo=internetexplorer&logoColor=white"/> -
   <img alt="MPLS" src="https://img.shields.io/badge/MPLS-%232C3E50.svg?style=for-the-badge&logo=cloudflare&logoColor=white"/> -
