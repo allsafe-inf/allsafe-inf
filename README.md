@@ -1,7 +1,7 @@
 # # :penguin: All Safe
 
 <div align="center">
-   <a href="[https://github.com/Cleciao](https://github.com/allsafe-inf)">
+
 
      
    </br>
@@ -18,6 +18,13 @@
    <img alt="Proxmox" src="https://img.shields.io/badge/proxmox-%230db7ed.svg?style=for-the-badge&logo=proxmox&logoColor=orange"/> - 
    <img alt="Vmware" src="https://img.shields.io/badge/vmware-%230db7ed.svg?style=for-the-badge&logo=vmware&logoColor=green"/> - 
    <img alt="VeeamBackup" src="https://img.shields.io/badge/VEEAM_BACKUP-%2311AB00.svg?style=for-the-badge&logo=veeam&logoColor=white"/>
+
+
+   <img alt="BGP" src="https://img.shields.io/badge/BGP-%23007ACC.svg?style=for-the-badge&logo=internetexplorer&logoColor=white"/> -
+  <img alt="MPLS" src="https://img.shields.io/badge/MPLS-%232C3E50.svg?style=for-the-badge&logo=cloudflare&logoColor=white"/> -
+  <img alt="OSPF" src="https://img.shields.io/badge/OSPF-%23009688.svg?style=for-the-badge&logo=cisco&logoColor=white"/> -
+  <img alt="Mikrotik" src="https://img.shields.io/badge/MikroTik-%23FF0000.svg?style=for-the-badge&logo=mikrotik&logoColor=white"/> -
+  <img alt="Huawei" src="https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white"/>
 
    </div>
  </br> </br>
