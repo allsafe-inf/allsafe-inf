@@ -10,6 +10,7 @@ Conectividade inteligente, infraestrutura sólida e operação segura.
 <a href="https://suporte.allsafe.inf.br/"><img alt="Área do Cliente" src="https://img.shields.io/badge/%C3%81rea_do_Cliente-suporte-1F6FEB?style=for-the-badge&logo=helpdesk&logoColor=white" /></a>
 <a href="https://allsafe.inf.br/ferramentas.html"><img alt="Ferramentas de Rede" src="https://img.shields.io/badge/Ferramentas_de_Rede-acessar-238636?style=for-the-badge&logo=speedtest&logoColor=white" /></a>
 <a href="https://allsafe.inf.br/#contato"><img alt="Contato" src="https://img.shields.io/badge/Contato-fale_com_o_NOC-D29922?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+<a href="https://www.linkedin.com/company/allsafeinf/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-allsafeinf-0A66C2?style=for-the-badge" /></a>
 
 </div>
 
@@ -143,6 +144,7 @@ Serviços que implantamos e operamos de forma automatizada:
 | 🧰 Ferramentas de rede | [allsafe.inf.br/ferramentas.html](https://allsafe.inf.br/ferramentas.html) |
 | 🎫 Área do cliente | [suporte.allsafe.inf.br](https://suporte.allsafe.inf.br/) |
 | 💬 Contato e diagnóstico do ambiente | [allsafe.inf.br/#contato](https://allsafe.inf.br/#contato) |
+| 💼 LinkedIn | [linkedin.com/company/allsafeinf](https://www.linkedin.com/company/allsafeinf/) |
 | 🐙 GitHub | [github.com/allsafe-inf](https://github.com/allsafe-inf) |
 
 <div align="center">
