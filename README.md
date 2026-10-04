@@ -65,6 +65,7 @@ Soluções em **infraestrutura e segurança de redes** para ISPs, datacenters e 
 <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 <img alt="Veeam Backup" src="https://img.shields.io/badge/Veeam_Backup-00B336?style=for-the-badge&logo=veeam&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 
 **Dados e automação**
@@ -105,6 +106,24 @@ Soluções em **infraestrutura e segurança de redes** para ISPs, datacenters e 
 <img alt="nftables" src="https://img.shields.io/badge/nftables-2C3E50?style=for-the-badge" />
 
 </div>
+
+### 🤖 Automação
+
+Serviços que implantamos e operamos de forma automatizada:
+
+| Automação de | Serviços |
+|---|---|
+| 💾 Backup | FTP · SFTP · SCP · TFTP |
+| 🌍 DNS | DNS Recursivo · RPZ Compliance |
+| 📚 Documentação | NetBox · phpIPAM |
+| 🧰 Gerência | Docker Registry · GenieACS · JumpServer · JumpServer Gateway · Portainer |
+| 📈 Monitoramento | Zabbix ISP · Zabbix Oxidized Module · Zabbix RPZ Module · SmokePing |
+| 🌐 Rede | ISP Tools Probe |
+| 🔐 Segurança | Passbolt |
+| 🚦 Testes de velocidade | Ookla · nPerf · SIMET · Minha Conexão · OpenSpeedTest · Speedtest Proxy |
+| 🕒 Tempo | NTP / NTS |
+| 📝 Logs | Graylog · Rsyslog |
+| 🛂 RPKI / IRR | Krill |
 
 ---
 
